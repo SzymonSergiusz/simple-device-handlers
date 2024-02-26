@@ -1,0 +1,10 @@
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\bin\Debug\czytnik-kart-magnetycznych.exe.config
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\bin\Debug\czytnik-kart-magnetycznych.exe
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\bin\Debug\czytnik-kart-magnetycznych.pdb
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\obj\Debug\czytnik-kart-magnetycznych.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\obj\Debug\czytnik_kart_magnetycznych.Form1.resources
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\obj\Debug\czytnik_kart_magnetycznych.Properties.Resources.resources
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\obj\Debug\czytnik-kart-magnetycznych.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\obj\Debug\czytnik-kart-magnetycznych.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\obj\Debug\czytnik-kart-magnetycznych.exe
+C:\Users\lab\source\repos\czytnik-kart-magnetycznych\czytnik-kart-magnetycznych\obj\Debug\czytnik-kart-magnetycznych.pdb

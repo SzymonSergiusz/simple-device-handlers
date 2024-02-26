@@ -1,0 +1,13 @@
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\bin\Debug\czytnik-kart-gsm.exe.config
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\bin\Debug\czytnik-kart-gsm.exe
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\bin\Debug\czytnik-kart-gsm.pdb
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik-kart-gsm.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik_kart_gsm.Form1.resources
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik_kart_gsm.Properties.Resources.resources
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik-kart-gsm.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik-kart-gsm.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik-kart-gsm.exe
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik-kart-gsm.pdb
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\bin\Debug\PCSC.dll
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\bin\Debug\PCSC.pdb
+C:\Users\lab\source\repos\czytnik-kart-gsm\czytnik-kart-gsm\obj\Debug\czytnik-kart-gsm.csproj.CopyComplete

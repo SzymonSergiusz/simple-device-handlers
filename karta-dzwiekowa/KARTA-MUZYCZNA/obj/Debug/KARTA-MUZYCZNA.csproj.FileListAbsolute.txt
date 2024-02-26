@@ -1,0 +1,40 @@
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\KARTA-MUZYCZNA.exe.config
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\KARTA-MUZYCZNA.exe
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\KARTA-MUZYCZNA.pdb
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\Interop.WMPLib.dll
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\Interop.WMPLib.dll
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.ResolveComReference.cache
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA_MUZYCZNA.Form1.resources
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA_MUZYCZNA.Properties.Resources.resources
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.exe
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.pdb
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.dll
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.pdb
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.DirectSound.pdb
+C:\Users\lab\source\repos\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.CopyComplete
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\KARTA-MUZYCZNA.exe.config
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\KARTA-MUZYCZNA.exe
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\KARTA-MUZYCZNA.pdb
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.dll
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.pdb
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.DirectSound.dll
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\SharpDX.DirectSound.pdb
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\Interop.WMPLib.dll
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\bin\Debug\AxInterop.WMPLib.dll
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.AssemblyReference.cache
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\Interop.WMPLib.dll
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\AxInterop.WMPLib.dll
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.ResolveComReference.cache
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA_MUZYCZNA.Form1.resources
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA_MUZYCZNA.Properties.Resources.resources
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.GenerateResource.cache
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.CoreCompileInputs.cache
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.csproj.CopyComplete
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.exe
+F:\UPeryferyjne\muzyka zajecia gotowe\KARTA-MUZYCZNA\KARTA-MUZYCZNA\obj\Debug\KARTA-MUZYCZNA.pdb

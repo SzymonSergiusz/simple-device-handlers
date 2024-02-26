@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "PCSC/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "PCSC/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "PCSC/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "PCSC/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PCSC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PCSC/6.2.0": {
+      "sha512": "LchYKEUOZ2eRFPopsBBUQ22AYleb8HMDJccsEx04eyltwI3NArqjSSClW4IXShztyNCiohedVbuqLpr79gvUxA==",
+      "type": "package",
+      "path": "pcsc/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "COPYING.txt",
+        "README.md",
+        "lib/net6.0/PCSC.dll",
+        "lib/net6.0/PCSC.pdb",
+        "lib/net6.0/PCSC.xml",
+        "lib/net7.0/PCSC.dll",
+        "lib/net7.0/PCSC.pdb",
+        "lib/net7.0/PCSC.xml",
+        "lib/net8.0/PCSC.dll",
+        "lib/net8.0/PCSC.pdb",
+        "lib/net8.0/PCSC.xml",
+        "lib/netstandard2.0/PCSC.dll",
+        "lib/netstandard2.0/PCSC.pdb",
+        "lib/netstandard2.0/PCSC.xml",
+        "pcsc-sharp.png",
+        "pcsc.6.2.0.nupkg.sha512",
+        "pcsc.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "PCSC >= 6.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lab\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lab\\source\\repos\\czytnik-kart-gsm\\czytnik-kart-gsm\\czytnik-kart-gsm.csproj",
+      "projectName": "czytnik-kart-gsm",
+      "projectPath": "C:\\Users\\lab\\source\\repos\\czytnik-kart-gsm\\czytnik-kart-gsm\\czytnik-kart-gsm.csproj",
+      "packagesPath": "C:\\Users\\lab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lab\\source\\repos\\czytnik-kart-gsm\\czytnik-kart-gsm\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\lab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "PCSC": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

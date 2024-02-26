@@ -1,0 +1,266 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "SharpDX/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "SharpDX.DirectSound/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "SharpDX": "4.2.0"
+        },
+        "compile": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "SharpDX/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "SharpDX.DirectSound/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "SharpDX": "4.2.0"
+        },
+        "compile": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-arm64": {
+      "SharpDX/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "SharpDX.DirectSound/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "SharpDX": "4.2.0"
+        },
+        "compile": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "SharpDX/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "SharpDX.DirectSound/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "SharpDX": "4.2.0"
+        },
+        "compile": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "SharpDX/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "SharpDX.DirectSound/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "SharpDX": "4.2.0"
+        },
+        "compile": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/SharpDX.DirectSound.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpDX/4.2.0": {
+      "sha512": "3pv0LFMvfK/dv1qISJnn8xBeeT6R/FRvr0EV4KI2DGsL84Qlv6P7isWqxGyU0LCwlSVCJN3jgHJ4Bl0KI2PJww==",
+      "type": "package",
+      "path": "sharpdx/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/.xml",
+        "lib/net40/SharpDX.dll",
+        "lib/net40/SharpDX.pdb",
+        "lib/net45/.xml",
+        "lib/net45/SharpDX.dll",
+        "lib/net45/SharpDX.pdb",
+        "lib/netstandard1.1/.xml",
+        "lib/netstandard1.1/SharpDX.dll",
+        "lib/netstandard1.1/SharpDX.pdb",
+        "lib/uap10.0/.xml",
+        "lib/uap10.0/SharpDX.dll",
+        "lib/uap10.0/SharpDX.pdb",
+        "lib/uap10.0/SharpDX.pri",
+        "sharpdx.4.2.0.nupkg.sha512",
+        "sharpdx.nuspec"
+      ]
+    },
+    "SharpDX.DirectSound/4.2.0": {
+      "sha512": "22g98QNyZry94Hef+7LF6BSfuyuvWp0eg1a4VrJeMGdXDsdF+GqMqHzDPYGpZFGuaDKF5y8w+broyZ+26l57pw==",
+      "type": "package",
+      "path": "sharpdx.directsound/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/SharpDX.DirectSound.dll",
+        "lib/net40/SharpDX.DirectSound.pdb",
+        "lib/net40/SharpDX.DirectSound.xml",
+        "lib/net45/SharpDX.DirectSound.dll",
+        "lib/net45/SharpDX.DirectSound.pdb",
+        "lib/net45/SharpDX.DirectSound.xml",
+        "lib/netstandard1.3/SharpDX.DirectSound.dll",
+        "lib/netstandard1.3/SharpDX.DirectSound.pdb",
+        "lib/netstandard1.3/SharpDX.DirectSound.xml",
+        "sharpdx.directsound.4.2.0.nupkg.sha512",
+        "sharpdx.directsound.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "SharpDX.DirectSound >= 4.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\UPeryferyjne\\muzyka zajecia gotowe\\KARTA-MUZYCZNA\\KARTA-MUZYCZNA\\KARTA-MUZYCZNA.csproj",
+      "projectName": "KARTA-MUZYCZNA",
+      "projectPath": "F:\\UPeryferyjne\\muzyka zajecia gotowe\\KARTA-MUZYCZNA\\KARTA-MUZYCZNA\\KARTA-MUZYCZNA.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "F:\\UPeryferyjne\\muzyka zajecia gotowe\\KARTA-MUZYCZNA\\KARTA-MUZYCZNA\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "SharpDX.DirectSound": {
+            "target": "Package",
+            "version": "[4.2.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

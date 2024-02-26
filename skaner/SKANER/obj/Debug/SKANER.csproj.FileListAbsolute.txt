@@ -1,0 +1,12 @@
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\Interop.WIA.dll
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\SKANER.csproj.ResolveComReference.cache
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\SKANER.Form1.resources
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\SKANER.Properties.Resources.resources
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\SKANER.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\SKANER.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\bin\Debug\SKANER.exe.config
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\bin\Debug\SKANER.exe
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\bin\Debug\SKANER.pdb
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\bin\Debug\Interop.WIA.dll
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\SKANER.exe
+C:\Users\lab\Desktop\UP_L2-skaner\nowy\SKANER\SKANER\obj\Debug\SKANER.pdb
